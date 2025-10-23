@@ -10,4 +10,4 @@ Here, we've created a template tailored for the most affordable PCB manufacturer
 
 Open the PCB Editor. Select File > Import > Graphics to display the popup.\
 Locate and select this DXF file from your files.\
-Verify the layer is set to **Edge.Cuts**, then click the OK button to import it.\
+Verify the layer is set to **Edge.Cuts**, then click the OK button to import it.
